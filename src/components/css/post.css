@@ -1,0 +1,8 @@
+.postContainer {
+    max-width: 500px;
+    width: 80%;
+    height: fit-content;
+    max-height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+}
